@@ -15,6 +15,14 @@ Hold **Shift + LMB** to draw a straight section of pipes. Hint: hold **ALT** too
 
 ##
 Use the **Scroll Wheel** whilst SPDE is selected to set mode, then hold **CTRL + LMB** to apply special operations.
+The modes are:
+1. Erase direction (removes the previous and next pipe's direction)
+2. Set/Place Color: Red (sets pipe filter to red, or places new pipe)
+3. Set/Place Color: Green (sets pipe filter to green, or places new pipe)
+4. Set/Place Color: Blue (sets pipe filter to blue, or places new pipe)
+5. Set Heat Transfer: True (makes the pipe transfer heat to its sorroundings)
+6. Set Heat Transfer: False (makes the pipe not transfer heat to its sorroundings)
+7. Reverse Arrows: (Reverses only the pipe's direction, does not affect colors like PPIP reversing)
 
 <img width="256" height="256" alt="2026-06-23-11-52-55" src="https://github.com/user-attachments/assets/7b75445f-ae5d-4689-a601-f03274d11732" />
 
