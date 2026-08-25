@@ -1,4 +1,4 @@
-# PipeHUD
+# [PipeHUD](https://starcatcher.us/scripts/browse.lua?view=340)
 A pipe viewing & editing script for [The Powder Toy](https://powdertoy.co.uk/)
 
 For questions or bug reports, ping @jona23 on discord.
