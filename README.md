@@ -3,7 +3,7 @@ A pipe viewing & editing script for [The Powder Toy](https://powdertoy.co.uk/)
 
 For questions or bug reports, ping @jona23 on discord.
 
-## How to use SPDE (Pipe Property and Direction Editor):
+## How to use SPDE (Single-pixel-pipe Property and Direction Editor):
 Hold **LMB** to set direction or draw pipes:
 
 <img width="256" height="256" alt="2026-06-23-11-54-14" src="https://github.com/user-attachments/assets/c7a061b8-4f89-4207-a64a-9761802dceba" />
